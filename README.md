@@ -1,2 +1,14 @@
 # jnhstats-journal
-HTML page archive and documentation
+
+静态页面保存仓库
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 维护备注
+
+若仓库启用 Pages，页面可通过 Pages 地址进行访问。
